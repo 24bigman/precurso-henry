@@ -1,2 +1,3 @@
-# precurso-henry
-este es un repositorio de prueba del modulo2 del precurso de henry
+Este es un proyecto de como crear un repositorio de prueba y de como clonarlo  a mi terminal local en el escritorio.
+
+
